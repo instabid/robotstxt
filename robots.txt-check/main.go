@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"github.com/temoto/robotstxt"
+	"github.com/instabid/robotstxt"
 	"log"
 	"net/http"
 	"strings"
